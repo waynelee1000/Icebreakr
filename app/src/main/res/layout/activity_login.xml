@@ -34,8 +34,13 @@
                 android:layout_marginRight="20dp"
                 android:src="@drawable/login_facebook"/>
 
-            <Button
+            <com.facebook.login.widget.LoginButton
                 android:id="@+id/login_button"
+                android:layout_width="wrap_content"
+                android:layout_height="60dp"/>
+
+            <!--Button
+                android:id="@+id/login_button1"
                 android:layout_width="match_parent"
                 android:layout_height="60dp"
                 android:text="Log In"
@@ -43,7 +48,7 @@
                 android:textSize="20sp"
                 android:textStyle="bold"
                 android:textColor="#888888"
-                android:background="@drawable/login_button"/>
+                android:background="@drawable/login_button"-->
 
         </LinearLayout>
 
