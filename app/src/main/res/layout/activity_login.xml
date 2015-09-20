@@ -24,11 +24,29 @@
             android:src="@drawable/login_logo"/>
 
         <LinearLayout
+<<<<<<< HEAD
             android:layout_width="280dp"
             android:layout_height="wrap_content"
             android:orientation="horizontal">
 
      android:text="Log In"
+=======
+            android:layout_width="305dp"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <com.facebook.login.widget.LoginButton
+                android:id="@+id/login_button"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:layout_centerInParent="true"/>
+
+            <!--Button
+                android:id="@+id/login_button1"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:text="Log In"
+>>>>>>> 19b9008aba537176d21a0b18d17971c6139aa645
                 android:textAllCaps="false"
                 android:textSize="20sp"
                 android:textStyle="bold"
