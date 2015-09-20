@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Icebreakr2.iml" filepath="$PROJECT_DIR$/Icebreakr2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Icebreakr_fb.iml" filepath="$PROJECT_DIR$/Icebreakr_fb.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
